@@ -7,3 +7,8 @@ I did not contribute to any of the coding efforts, and instead worked on parts o
 The Team placed fourth out of thirteen teams at the Fourth Annual "Hacks for Humanity" event held from October 7-8, 2017 at ASU Tempe. 
 
 Dunces to Dragons consists of Anthony Nicholas, Summer Gautier, Jacob Robinson, myself, and Julia Cannon. 
+
+Anthony Nicholas @AnthonyNicholas designed the entire iOS app https://github.com/AnthonyNicholas/DuncesToDragons
+
+Summer Gautier designed the entire website. The post-hackathon version also included back-end functionality. https://duncestodragons.000webhostapp.com/index.html
+
