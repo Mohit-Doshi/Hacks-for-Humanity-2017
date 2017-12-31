@@ -4,6 +4,6 @@ I was part of a team called 'Dunces to Dragons' which built a service (app and w
 
 I did not contribute to any of the coding efforts, and instead worked on parts of the business plan, project summary, presentation, gathering video and audio. 
 
-The Team placed fourth out of thirteen teams at the Fourth Annual "Hacks for Humanity" event held from OCtober 7-8, 2017 at ASU Tempe. 
+The Team placed fourth out of thirteen teams at the Fourth Annual "Hacks for Humanity" event held from October 7-8, 2017 at ASU Tempe. 
 
 Dunces to Dragons consists of Anthony Nicholas, Summer Gautier, Jacob Robinson, myself, and Julia Cannon. 
