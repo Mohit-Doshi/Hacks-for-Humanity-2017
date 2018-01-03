@@ -11,6 +11,5 @@ Dunces to Dragons consists of Anthony Nicholas, Summer Gautier, Jacob Robinson, 
 Anthony Nicholas @AnthonyNicholas designed the entire iOS app https://github.com/AnthonyNicholas/DuncesToDragons
 
 Summer Gautier @SummerGautier designed the entire website. The post-hackathon version also included back-end functionality.
-
 https://github.com/SummerGautier/Dunces-To-Dragons-Prototype-Website
 
